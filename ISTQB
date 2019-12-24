@@ -1,0 +1,22 @@
+1.1 What is Testing?
+Software systems are an integral part of life, from business applications (e.g., banking) to consumer products (e.g., cars). Most people had an experience with software that did not work as expected. Software that does not work correctly can lead to many problems, including loss of money, time, or business reputation, and even injury or death.
+Software testing is a way to assess the quality of the software and to reduce the risk of software failure in operation.
+
+A common misperception of testing is that it only consists of running tests, i.e., executing the software and checking the results. The test process also includes activities such as test planning, analyzing, designing, and implementing tests, reporting testing process and results, and evaluating the quality of a test object.
+
+Some testing does involve the execution of the component or system being tested; such testing is called dynamic testing. Other testing does not involve checking whether the system being tested; such testing is called static testing. So, testing also includes reviewing work products such as requirements, user stories, and source code.
+
+1.1.1 Typical Objectives of Testing
+For any given project, the objectives of testing may include:
+To prevent defects by evaluate work products such as requirements, user stories, design and code.
+To verify whether all specified requirements have been fulfilled. 
+To check whether the test objects is complete and validate if it works as the users and other stakeholders expected.
+To build confidence in the level of quality of the test object
+To find defects and failures thus reduce the level of risk of inadequate software quality
+To provide sufficient information to stakeholders to allow them to make informed decisions, especially regarding the level of quality of the test object
+
+
+
+
+
+
