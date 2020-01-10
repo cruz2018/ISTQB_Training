@@ -22,6 +22,10 @@ Another objective may be to increase code coverage of the component tests.Add
 
 __________________________________________________________________________________________________________________________
 
+Internet of Things(IoT) systems, which consist of many different objects, such as devices, products, and services, typically aply separate software development
+lifecycle models for each object. This present a particular challenge for the development of Internet of Things system versions.
+Additionally the software development  lifecycle of such objects places stronger emphasis on the later phases of the software development 
+lifecycle after the have beeb introducted to operational use (e.g., operate, update, and decommission phases.)
 
 
 
